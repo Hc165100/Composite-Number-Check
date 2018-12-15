@@ -1,0 +1,25 @@
+div {
+	height: 175px;
+	width: 250px;
+	border-radius: 15%;
+	background-color: blue;
+	margin: auto;
+	display: flex;
+	position: relative;
+	top: 90px;
+}
+
+button{
+	display: block;
+	position: absolute;
+	bottom: 40px;
+	left: 100px;
+}
+
+#result {
+	color: white;
+	margin: auto;
+	margin-top: 50px;
+	width: 200px;
+	text-align: center;
+}
